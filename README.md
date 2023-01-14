@@ -11,5 +11,5 @@ You can visit this project at: <a href="https://matiasmass.github.io/article/" t
 ## Mobile version:
 <p align="center">
 <a href="https://postimg.cc/t1Xsv2g7" target="_blank"><img src="https://i.postimg.cc/jjfy5106/2.png" alt="2" 
- width="1148" height="1948"/></a><br/><br/>
+ width="500" height="848"/></a><br/><br/>
 </p>
